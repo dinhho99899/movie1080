@@ -1,0 +1,88 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: 1920,Microsoft Himalaya,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,0,0,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:02.20,1920,,0,0,0,,Do you know how Vietnamese women fish?
+Dialogue: 0,0:00:02.40,0:00:03.58,1920,,0,0,0,,without any exaggeration
+Dialogue: 0,0:00:03.60,0:00:05.48,1920,,0,0,0,,She fished and found a new ceiling
+Dialogue: 0,0:00:05.50,0:00:07.38,1920,,0,0,0,,Not many women in China dare to do this
+Dialogue: 0,0:00:07.40,0:00:08.98,1920,,0,0,0,,It's this rural beauty
+Dialogue: 0,0:00:09.00,0:00:10.48,1920,,0,0,0,,Not only people are beautiful and graceful
+Dialogue: 0,0:00:10.50,0:00:12.38,1920,,0,0,0,,And the fishing technique is also top-notch
+Dialogue: 0,0:00:12.40,0:00:14.40,1920,,0,0,0,,The beauty is so domineering just to let us watch him fish.
+Dialogue: 0,0:00:15.20,0:00:16.78,1920,,0,0,0,,Came out in pajamas
+Dialogue: 0,0:00:16.80,0:00:18.48,1920,,0,0,0,,She said it was very convenient to catch fish this way
+Dialogue: 0,0:00:18.50,0:00:19.88,1920,,0,0,0,,I don’t know if it’s inconvenient
+Dialogue: 0,0:00:19.90,0:00:20.98,1920,,0,0,0,,But it looks very eye-catching
+Dialogue: 0,0:00:21.00,0:00:23.00,1920,,0,0,0,,Next, his fishing skills will definitely make you admire him
+Dialogue: 0,0:00:23.80,0:00:25.80,1920,,0,0,0,,I saw him coming to the river and not caring about the turbid water.
+Dialogue: 0,0:00:26.60,0:00:27.78,1920,,0,0,0,,I squatted down immediately
+Dialogue: 0,0:00:27.80,0:00:29.80,1920,,0,0,0,,They also cleared away the branches and weeds on the shore
+Dialogue: 0,0:00:30.20,0:00:31.08,1920,,0,0,0,,My dear
+Dialogue: 0,0:00:31.10,0:00:33.10,1920,,0,0,0,,This kind of place is usually a hiding place for bugs and spicy sticks.
+Dialogue: 0,0:00:34.00,0:00:36.00,1920,,0,0,0,,The beauty in this place is so courageous
+Dialogue: 0,0:00:36.50,0:00:37.48,1920,,0,0,0,,And that's nothing
+Dialogue: 0,0:00:37.50,0:00:39.48,1920,,0,0,0,,After he pulled away the weeds
+Dialogue: 0,0:00:39.50,0:00:41.50,1920,,0,0,0,,Directly stretched his hand into the mud hole on the shore
+Dialogue: 0,0:00:42.00,0:00:43.98,1920,,0,0,0,,Don’t be afraid to touch a tattooed eel
+Dialogue: 0,0:00:44.00,0:00:46.00,1920,,0,0,0,,This wave of operations makes my scalp numb
+Dialogue: 0,0:00:46.50,0:00:47.98,1920,,0,0,0,,Fortunately there was no accident
+Dialogue: 0,0:00:48.00,0:00:49.48,1920,,0,0,0,,Only a piece of tile was found
+Dialogue: 0,0:00:49.50,0:00:50.98,1920,,0,0,0,,You see, I also sweated a lot for him
+Dialogue: 0,0:00:51.00,0:00:52.48,1920,,0,0,0,,The girl just smiled slightly
+Dialogue: 0,0:00:52.50,0:00:54.50,1920,,0,0,0,,Turning around, I reached another position and touched it
+Dialogue: 0,0:00:55.00,0:00:56.98,1920,,0,0,0,,Beautiful woman crawls in turbid water
+Dialogue: 0,0:00:57.00,0:00:58.98,1920,,0,0,0,,Even if I get soaked, I don’t care
+Dialogue: 0,0:00:59.00,0:01:01.00,1920,,0,0,0,,On the contrary, I really enjoy the feeling of skin-to-skin contact.
+Dialogue: 0,0:01:04.50,0:01:04.98,1920,,0,0,0,,After a while
+Dialogue: 0,0:01:05.00,0:01:07.00,1920,,0,0,0,,I fished out a black fish from the hole
+Dialogue: 0,0:01:07.50,0:01:08.98,1920,,0,0,0,,The girl smiled happily
+Dialogue: 0,0:01:09.00,0:01:10.48,1920,,0,0,0,,This is a scavenger
+Dialogue: 0,0:01:10.50,0:01:12.50,1920,,0,0,0,,This kind of fish is also a good delicacy in the local area.
+Dialogue: 0,0:01:14.50,0:01:15.98,1920,,0,0,0,,After harvesting the first fish
+Dialogue: 0,0:01:16.00,0:01:17.48,1920,,0,0,0,,The girl is even more excited
+Dialogue: 0,0:01:17.50,0:01:19.48,1920,,0,0,0,,I touched it directly in the middle of the river.
+Dialogue: 0,0:01:19.50,0:01:21.50,1920,,0,0,0,,Everywhere a girl puts her hands on, he can touch her
+Dialogue: 0,0:01:22.00,0:01:23.48,1920,,0,0,0,,No matter how slippery the fish is, it can't escape
+Dialogue: 0,0:01:23.50,0:01:25.50,1920,,0,0,0,,In a moment, another scavenger was touched by him.
+Dialogue: 0,0:01:26.50,0:01:27.48,1920,,0,0,0,,
+Dialogue: 0,0:01:27.50,0:01:29.50,1920,,0,0,0,,The girl's fishing skills are really a duck's head.
+Dialogue: 0,0:01:30.50,0:01:31.98,1920,,0,0,0,,Frog croaks
+Dialogue: 0,0:01:32.00,0:01:33.98,1920,,0,0,0,,And the girl is just warming up
+Dialogue: 0,0:01:34.00,0:01:35.48,1920,,0,0,0,,Fishing has just begun
+Dialogue: 0,0:01:35.50,0:01:37.50,1920,,0,0,0,,You see, he has touched such a small fish.
+Dialogue: 0,0:01:39.00,0:01:40.98,1920,,0,0,0,,The girl said that fishing like this is quite good.
+Dialogue: 0,0:01:41.00,0:01:43.00,1920,,0,0,0,,Only those who grew up in rural areas can experience the enjoyment
+Dialogue: 0,0:01:44.00,0:01:45.48,1920,,0,0,0,,Not only can it improve food
+Dialogue: 0,0:01:45.50,0:01:47.48,1920,,0,0,0,,You can also experience the fun of childhood
+Dialogue: 0,0:01:47.50,0:01:49.50,1920,,0,0,0,,While talking, another fish was fished out of the water.
+Dialogue: 0,0:01:53.00,0:01:55.00,1920,,0,0,0,,In the blink of an eye, the girl disappeared from our sight
+Dialogue: 0,0:01:55.50,0:01:56.98,1920,,0,0,0,,Take a closer look at the camera
+Dialogue: 0,0:01:57.00,0:01:58.48,1920,,0,0,0,,It turned out to be buried in the weeds
+Dialogue: 0,0:01:58.50,0:01:59.98,1920,,0,0,0,,Although there are many fish in this place,
+Dialogue: 0,0:02:00.00,0:02:02.00,1920,,0,0,0,,But there are also a lot of leeches and water bugs
+Dialogue: 0,0:02:02.50,0:02:04.48,1920,,0,0,0,,Other girls would be daunted by this
+Dialogue: 0,0:02:04.50,0:02:05.98,1920,,0,0,0,,But she doesn't care
+Dialogue: 0,0:02:06.00,0:02:08.00,1920,,0,0,0,,After climbing in, I touched it
+Dialogue: 0,0:02:10.50,0:02:12.48,1920,,0,0,0,,When I was still worried about girls
+Dialogue: 0,0:02:12.50,0:02:14.48,1920,,0,0,0,,A fish was fished out by him
+Dialogue: 0,0:02:14.50,0:02:16.50,1920,,0,0,0,,This is still a big guy
+Dialogue: 0,0:02:18.00,0:02:19.98,1920,,0,0,0,,Next, the crazy arrest mode started
+Dialogue: 0,0:02:20.00,0:02:21.98,1920,,0,0,0,,one piece
+Dialogue: 0,0:02:22.00,0:02:23.98,1920,,0,0,0,,two
+Dialogue: 0,0:02:24.00,0:02:25.48,1920,,0,0,0,,Sanjo
+Dialogue: 0,0:02:25.50,0:02:25.98,1920,,0,0,0,,oh
+Dialogue: 0,0:02:26.00,0:02:28.00,1920,,0,0,0,,Four
+Dialogue: 0,0:02:29.50,0:02:31.50,1920,,0,0,0,,It only took two hours to harvest less than half a barrel.
+Dialogue: 0,0:02:32.00,0:02:32.48,1920,,0,0,0,,enough for a meal
+Dialogue: 0,0:02:32.50,0:02:33.48,1920,,0,0,0,,So hardworking and capable
+Dialogue: 0,0:02:33.50,0:02:35.50,1920,,0,0,0,,Do you like girls who are not afraid of getting dirty or tired?
