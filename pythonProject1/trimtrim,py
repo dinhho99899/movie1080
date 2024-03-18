@@ -1,0 +1,1 @@
+ffmpeg -i "D:\Douyin\159us\edit\Try Not To Laugh Compilation _ Cute People And Animals Doing Funny Things.mp4" -c copy -map 0 -segment_time 00:05:30 -f segment -reset_timestamps 1 output%03d.mp4

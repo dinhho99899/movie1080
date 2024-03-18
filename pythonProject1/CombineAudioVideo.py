@@ -48,3 +48,5 @@ if __name__ == "__main__":
     for path, name in zip(path_list, final_name_list):
         process_video(path, name)
     print("Finished")
+
+ 
